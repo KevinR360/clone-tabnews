@@ -1,9 +1,9 @@
 function Home() {
   return (
     <div className="container">
-      <h1>Welcome to Clone Tab News</h1>
-      <p>This is a simple Next.js application.</p>
-      <span className="brand">cursor.dev</span>
+      <h1>Isabela eu te amo!</h1>
+      <p>Se você também me ama da um sorriso!</p>
+      <span className="brand">PS: vou ganhar os 3?</span>
       <style jsx>{`
         .container {
           min-height: 100vh;
