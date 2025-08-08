@@ -7,12 +7,12 @@
   background: #f5f6fa;
 }
 
-h1 {
+.title {
   color: #22223b;
   margin-bottom: 0.5em;
 }
 
-p {
+.subtitle {
   color: #4a4e69;
   margin-bottom: 1em;
 }
